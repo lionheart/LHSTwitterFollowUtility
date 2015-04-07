@@ -10,6 +10,7 @@ Pod::Spec.new do |s|
   s.source_files = 'LHSTwitterFollowUtility/*.{h,m}'
   s.public_header_files = 'LHSTwitterFollowUtility/*.h'
   s.requires_arc = true
+  s.dependency 'LHSCategoryCollection'
 
   s.platform     = :ios, '7.0'
   s.framework  = 'UIKit'
