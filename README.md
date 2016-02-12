@@ -8,7 +8,7 @@ This utility gives you a quick and easy way to let users of your app follow a tw
 Installation
 ------------
 
-Cocoapods is the recommended installation method. Just add this line to your Podfile.
+CocoaPods is the recommended installation method. Just add this line to your Podfile.
 
     pod 'LHSTwitterFollowUtility'
 
