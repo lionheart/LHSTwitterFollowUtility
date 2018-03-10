@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LHSTwitterFollowUtility"
-  s.version      = "0.0.2"
+  s.version      =  "0.1.0"
   s.summary      = "A collection of helpful categories for use in iOS projects."
   s.homepage     = "http://lionheartsw.com"
   s.license      = 'Apache 2.0'
